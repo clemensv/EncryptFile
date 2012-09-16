@@ -1,0 +1,6 @@
+c:\git\EncryptFile\EncryptFile\bin\Debug\EncryptFile.exe.config
+c:\git\EncryptFile\EncryptFile\obj\Debug\EncryptFile.csprojResolveAssemblyReference.cache
+c:\git\EncryptFile\EncryptFile\bin\Debug\EncryptFile.exe
+c:\git\EncryptFile\EncryptFile\bin\Debug\EncryptFile.pdb
+c:\git\EncryptFile\EncryptFile\obj\Debug\EncryptFile.exe
+c:\git\EncryptFile\EncryptFile\obj\Debug\EncryptFile.pdb
